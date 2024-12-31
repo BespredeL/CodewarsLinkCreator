@@ -1,0 +1,12 @@
+body {
+    width: 400px !important;
+}
+
+#task-link {
+    height: 100px;
+    resize: none;
+}
+
+#copied-message {
+    padding: 0.38rem 0.5rem !important;
+}
